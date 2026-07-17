@@ -86,46 +86,10 @@ Experience the platform live on the web:
 *   **Key Storage**: Securely manage your Google Gemini API keys.
 *   **Report Brand Customizer**: Edit report titles, header text, and company labels.
 
----
-
-## 📸 4. Screenshots
-
-<details>
-  <summary>🔍 Click to view application page mockups & layouts</summary>
-  <br>
-
-  #### 📊 Executive Dashboard Overview
-  ![Dashboard Screenshot](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1000&q=80)
-  *Overview of datasets, trained ML models, and system health status.*
-
-  #### 📁 File Upload Wizard
-  ![Dataset Upload](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1000&q=80)
-  *Intuitive drag-and-drop interface for CSV/Excel data ingestion.*
-
-  #### 🔍 Data Quality Profiling
-  ![Dataset Profiling](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1000&q=80)
-  *Detailed quality score analysis, type mappings, and column-wise statistics.*
-
-  #### 🧹 Recommended Cleaning Steps
-  ![Cleaning Recommendations](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=1000&q=80)
-  *Apply data cleaning suggestions with single-click triggers.*
-
-  #### 🤖 AutoML Model Leaderboard
-  ![AutoML Results](https://images.unsplash.com/photo-1527474305487-b87b222841cc?auto=format&fit=crop&w=1000&q=80)
-  *Interactive leaderboard showing algorithm scores, validation metrics, and training time.*
-
-  #### 📈 Interactive Recharts Panel
-  ![Charts](https://images.unsplash.com/photo-1543286386-7a39e2d9c83e?auto=format&fit=crop&w=1000&q=80)
-  *Dynamic data distributions, correlation heatmaps, and residuals graphs.*
-
-  #### 💡 AI Business Insights & PDF Report
-  ![AI Insights & PDF Report](https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=1000&q=80)
-  *AI executive summary output and exportable PDF report layouts.*
-</details>
 
 ---
 
-## 🛠️ 5. Tech Stack
+## 🛠️ 4. Tech Stack
 
 | Layer | Technology | Description |
 | :--- | :--- | :--- |
@@ -149,7 +113,7 @@ Experience the platform live on the web:
 
 ---
 
-## 🏗️ 6. System Architecture
+## 🏗️ 5. System Architecture
 
 ```mermaid
 graph TD
@@ -171,7 +135,7 @@ graph TD
 
 ---
 
-## 📂 7. Folder Structure
+## 📂 6. Folder Structure
 
 The application codebase follows a clean separation of concerns between client (frontend) and server (backend):
 
@@ -228,7 +192,7 @@ MLStudio/
 
 ---
 
-## ⚡ 8. Installation Guide
+## ⚡ 7. Installation Guide
 
 <details>
   <summary>💻 Click to expand step-by-step local installation instructions</summary>
@@ -279,7 +243,7 @@ MLStudio/
 
 ---
 
-## 🔑 9. Environment Variables
+## 🔑 8. Environment Variables
 
 Create a `.env` file in the project's root folder to configure database links and AI capabilities:
 
@@ -296,7 +260,7 @@ VITE_API_URL=http://localhost:8000
 
 ---
 
-## 📄 10. API Documentation
+## 📄 9. API Documentation
 
 PredictIQ Studio's API is fully documented and interactive out-of-the-box thanks to OpenAPI standard specifications:
 
@@ -305,7 +269,7 @@ PredictIQ Studio's API is fully documented and interactive out-of-the-box thanks
 
 ---
 
-## 🔄 11. Machine Learning Workflow
+## 🔄 10. Machine Learning Workflow
 
 ```text
   [1. Upload Dataset]
@@ -334,7 +298,7 @@ PredictIQ Studio's API is fully documented and interactive out-of-the-box thanks
 
 ---
 
-## 🐳 12. Deployment
+## 🐳 11. Deployment
 
 *   **Frontend**: Hosted on **Vercel** configured for automated pipeline builds directly connected to the React project directory.
 *   **Backend**: Deployed on **Render** utilizing the multi-stage [Dockerfile](file:///c:/Users/Lenovo/Projects/MLStudio/Dockerfile) targeting port `8000`.
@@ -342,7 +306,7 @@ PredictIQ Studio's API is fully documented and interactive out-of-the-box thanks
 
 ---
 
-## 🏆 13. Project Highlights
+## 🏆 12. Project Highlights
 
 *   **Full-Stack AI Orchestration**: Seamless integration of FastAPI, React, and Google GenAI SDK to make data science code-free.
 *   **AutoML Execution Engine**: Features cross-validated training workflows running Scikit-Learn and XGBoost dynamically.
@@ -352,7 +316,7 @@ PredictIQ Studio's API is fully documented and interactive out-of-the-box thanks
 
 ---
 
-## 🚀 14. Future Enhancements
+## 🚀 13. Future Enhancements
 
 *   🔒 **User Authentication**: Implement JWT-based authentication for user logins.
 *   💾 **Model Exports**: Allow users to download trained models in ONNX or Joblib format.
@@ -365,7 +329,7 @@ PredictIQ Studio's API is fully documented and interactive out-of-the-box thanks
 
 ---
 
-## 🤝 15. Contributing
+## 🤝 14. Contributing
 
 Contributions make the open-source community an amazing place to learn, inspire, and create.
 1. Fork the Project.
@@ -376,11 +340,6 @@ Contributions make the open-source community an amazing place to learn, inspire,
 
 ---
 
-## 📄 16. License
-
-Distributed under the **MIT License**. See `LICENSE` for more details.
-
----
 
 ## 👤 17. Author Section
 
