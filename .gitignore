@@ -1,0 +1,30 @@
+# Environments
+.env
+.env.local
+.env.production
+.env.development
+
+# Python virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# Databases & local logs
+*.db
+mlstudio.db
+uploads/
+reports_dir/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Frontend dependencies and builds
+node_modules/
+dist/
