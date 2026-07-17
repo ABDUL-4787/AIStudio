@@ -341,8 +341,3 @@ Contributions make the open-source community an amazing place to learn, inspire,
 ---
 
 
-## 👤 17. Author Section
-
-*   **GitHub**: [@yourusername](https://github.com/yourusername) *(Placeholder)*
-*   **LinkedIn**: [Your Name](https://linkedin.com/in/yourusername) *(Placeholder)*
-*   **Email**: [your.email@example.com](mailto:your.email@example.com) *(Placeholder)*
