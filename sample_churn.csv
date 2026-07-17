@@ -1,0 +1,21 @@
+customer_id,age,tenure,monthly_charges,contract_type,satisfaction_score,churned
+C1001,42,12,70.5,Month-to-month,2,1
+C1002,51,24,90.2,One year,4,0
+C1003,29,3,55.0,Month-to-month,3,1
+C1004,38,36,85.5,Two year,5,0
+C1005,45,8,65.2,Month-to-month,1,1
+C1006,62,48,110.0,Two year,4,0
+C1007,31,15,75.3,One year,3,0
+C1008,24,2,49.9,Month-to-month,2,1
+C1009,55,60,115.5,Two year,5,0
+C1010,40,18,80.0,One year,3,0
+C1011,35,10,72.4,Month-to-month,2,1
+C1012,48,22,88.1,One year,4,0
+C1013,27,5,52.8,Month-to-month,3,1
+C1014,44,30,95.6,Two year,5,0
+C1015,50,6,68.0,Month-to-month,1,1
+C1016,58,54,105.2,Two year,4,0
+C1017,33,14,78.9,One year,3,0
+C1018,22,1,45.5,Month-to-month,2,1
+C1019,52,58,112.4,Two year,5,0
+C1020,39,20,82.5,One year,3,0
