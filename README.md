@@ -34,10 +34,9 @@ This is the ultimate workspace for data analysts, business intelligence speciali
 
 Experience the platform live on the web:
 
-*   🌐 **Frontend Client**: [https://predictiq-studio.vercel.app](https://predictiq-studio.vercel.app) *(Placeholder)*
-*   ⚙️ **Backend Service API**: [https://predictiq-studio-api.onrender.com](https://predictiq-studio-api.onrender.com) *(Placeholder)*
-*   📄 **Swagger API Documentation**: [https://predictiq-studio-api.onrender.com/docs](https://predictiq-studio-api.onrender.com/docs) *(Placeholder)*
-*   🖥️ **GitHub Repository**: [https://github.com/username/PredictIQStudio](https://github.com/username/PredictIQStudio) *(Placeholder)*
+*   🌐 **Frontend Client**: [ai-studio-beta-ten.vercel.app](ai-studio-beta-ten.vercel.app) 
+*   ⚙️ **Backend Service API**: [https://aistudio-1-j3px.onrender.com](https://aistudio-1-j3px.onrender.com) 
+*   📄 **Swagger API Documentation**: [https://aistudio-1-j3px.onrender.com/docs](https://aistudio-1-j3px.onrender.com/docs) 
 
 ---
 
