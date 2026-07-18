@@ -199,7 +199,7 @@ MLStudio/
 
   ### 1️⃣ Clone the Repository
   ```bash
-  git clone https://github.com/username/PredictIQStudio.git
+  git clone https://github.com/ABDUL-4787/PredictIQStudio.git
   cd PredictIQStudio
   ```
 
